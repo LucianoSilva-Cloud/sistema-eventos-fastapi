@@ -2,7 +2,7 @@
 
 API RESTful para criação de eventos e gerenciamento de inscrições com controle de vagas em tempo real.
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * **FastAPI:** Framework moderno e rápido para construção de APIs com Python.
 * **SQLAlchemy:** ORM para mapeamento e manipulação do banco de dados de forma segura.
@@ -10,7 +10,7 @@ API RESTful para criação de eventos e gerenciamento de inscrições com contro
 * **Docker:** Containerização da aplicação para garantir consistência entre ambientes.
 * **Pydantic:** Validação de dados e tipagem estruturada para as requisições e respostas.
 
-## 🛠️ Como Executar o Projeto
+## Como Executar o Projeto
 
 ### Opção 1: Via Docker (Recomendado)
 
